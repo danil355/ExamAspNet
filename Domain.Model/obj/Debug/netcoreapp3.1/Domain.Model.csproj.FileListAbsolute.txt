@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.deps.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.runtimeconfig.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.genruntimeconfig.cache

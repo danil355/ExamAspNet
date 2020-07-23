@@ -1,0 +1,16 @@
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Edu.Application.deps.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Edu.Application.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Edu.Application.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Edu.Application.runtimeconfig.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Edu.Application.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.genruntimeconfig.cache
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Domain.DataAccess.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Domain.DataAccess.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\bin\Debug\netcoreapp3.1\Domain.Model.pdb
+C:\Users\Евгений\source\repos\ExamAspNetApi\Edu.Application\obj\Debug\netcoreapp3.1\Edu.Application.csproj.CopyComplete
